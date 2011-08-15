@@ -7,3 +7,6 @@
 [submodule "jquery"]
 	path = jquery
 	url = https://github.com/jquery/jquery.git
+[submodule "html5-boilerplate"]
+	path = html5-boilerplate
+	url = https://github.com/paulirish/html5-boilerplate.git
