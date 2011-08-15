@@ -1,0 +1,9 @@
+[submodule "less"]
+	path = less
+	url = https://github.com/cloudhead/less.js.git
+[submodule "960gs"]
+	path = 960gs
+	url = https://github.com/nathansmith/960-Grid-System.git
+[submodule "jquery"]
+	path = jquery
+	url = https://github.com/jquery/jquery.git
