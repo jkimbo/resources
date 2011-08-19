@@ -13,3 +13,6 @@
 [submodule "less-elements"]
 	path = less-elements
 	url = https://github.com/dmitryf/elements.git
+[submodule "jk-template"]
+	path = jk-template
+	url = git@github.com:jkimbo/jk-template.git
