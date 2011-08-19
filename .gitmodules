@@ -16,3 +16,6 @@
 [submodule "jk-template"]
 	path = jk-template
 	url = git@github.com:jkimbo/jk-template.git
+[submodule "isotope"]
+	path = isotope
+	url = https://github.com/desandro/isotope.git
