@@ -25,3 +25,6 @@
 [submodule "respond"]
 	path = respond
 	url = https://github.com/scottjehl/Respond.git
+[submodule "jquery-lazyload"]
+	path = jquery-lazyload
+	url = https://github.com/tuupola/jquery_lazyload.git
