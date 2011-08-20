@@ -19,3 +19,6 @@
 [submodule "isotope"]
 	path = isotope
 	url = https://github.com/desandro/isotope.git
+[submodule "Respond"]
+	path = Respond
+	url = https://github.com/scottjehl/Respond.git
