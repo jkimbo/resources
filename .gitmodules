@@ -28,3 +28,6 @@
 [submodule "jquery-lazyload"]
 	path = jquery-lazyload
 	url = https://github.com/tuupola/jquery_lazyload.git
+[submodule "bigtextjs"]
+	path = bigtextjs
+	url = https://github.com/zachleat/BigText.git
