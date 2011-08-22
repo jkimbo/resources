@@ -16,3 +16,6 @@
 [submodule "isotope"]
 	path = isotope
 	url = https://github.com/desandro/isotope.git
+[submodule "timthumb"]
+	path = timthumb
+	url = https://github.com/rowanmanning/timthumb.git
