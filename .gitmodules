@@ -13,9 +13,27 @@
 [submodule "less-elements"]
 	path = less-elements
 	url = https://github.com/dmitryf/elements.git
+[submodule "jk-template"]
+	path = jk-template
+	url = git@github.com:jkimbo/jk-template.git
 [submodule "isotope"]
 	path = isotope
 	url = https://github.com/desandro/isotope.git
 [submodule "timthumb"]
 	path = timthumb
 	url = https://github.com/rowanmanning/timthumb.git
+[submodule "Respond"]
+	path = Respond
+	url = https://github.com/scottjehl/Respond.git
+[submodule "respond"]
+	path = respond
+	url = https://github.com/scottjehl/Respond.git
+[submodule "jquery-lazyload"]
+	path = jquery-lazyload
+	url = https://github.com/tuupola/jquery_lazyload.git
+[submodule "bigtextjs"]
+	path = bigtextjs
+	url = https://github.com/zachleat/BigText.git
+[submodule "lettering.js"]
+	path = lettering.js
+	url = https://github.com/davatron5000/Lettering.js.git
