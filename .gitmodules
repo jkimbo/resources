@@ -34,3 +34,9 @@
 [submodule "lettering.js"]
 	path = lettering.js
 	url = https://github.com/davatron5000/Lettering.js.git
+[submodule "jquery-mobile"]
+	path = jquery-mobile
+	url = https://github.com/jquery/jquery-mobile.git
+[submodule "masonry"]
+	path = masonry
+	url = https://github.com/desandro/masonry.git

@@ -1,0 +1,22 @@
+/* HTML & BODY
+-------------------------------------------------------------*/
+html, body				{ height: 100%; }
+body					{ font: normal bold 12px/1.5 'Helvetica Neue', 'Arial', sans-serif; } 
+
+
+/* LAYOUT
+-------------------------------------------------------------*/
+.push 					{ float: left; height: 50%; margin-bottom: -200px; position: relative; width: 100%; }
+.clear 					{ clear: left; }
+
+
+/* CONTENT
+-------------------------------------------------------------*/
+.panel 					{ background: url(../images/bg.jpg) no-repeat 0 0; clear: left; height: 268px; margin: 0 auto; padding: 132px 250px 0 270px; position: relative; width: 280px; }
+
+.tag 					{ background: url(../images/tag.png) no-repeat 0 0; color: #3f3f3f; display: none; float: left; height: 25px; line-height: 1; margin: 5px; padding: 0 5px 0 8px; position: relative; text-decoration: none; }
+.tag:hover 				{ cursor: pointer; }
+.tag:active 			{ top: 1px; }
+.tag span 				{ display: block; float: left; }
+.tag_name 				{ background: url(../images/tag.png) no-repeat 100% -25px; height: 19px; padding: 6px 10px 0 0; position: relative; text-shadow: 0 1px 1px #fff; z-index: 10; }
+.tag_count 				{ background: url(../images/tag.png) no-repeat 100% -50px; color: #fff; height: 19px; padding: 5px 10px 0; position: absolute; right: 0; text-shadow: 0 -1px 0 #c54a0c; top: 1px; z-index: 5; }
