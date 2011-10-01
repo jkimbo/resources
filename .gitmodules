@@ -46,3 +46,12 @@
 [submodule "bootstrap"]
 	path = bootstrap
 	url = https://github.com/twitter/bootstrap.git
+[submodule "sketch.js"]
+	path = sketch.js
+	url = https://github.com/intridea/sketch.js.git
+[submodule "jquery.ui.aristo"]
+	path = jquery.ui.aristo
+	url = https://github.com/taitems/Aristo-jQuery-UI-Theme.git
+[submodule "ICanHaz.js"]
+	path = ICanHaz.js
+	url = git://github.com/andyet/ICanHaz.js
