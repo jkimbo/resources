@@ -55,3 +55,9 @@
 [submodule "ICanHaz.js"]
 	path = ICanHaz.js
 	url = git://github.com/andyet/ICanHaz.js
+[submodule "wordpress/roots"]
+	path = wordpress/roots
+	url = https://github.com/retlehs/roots.git
+[submodule "wordpress/html5-reset"]
+	path = wordpress/html5-reset
+	url = https://github.com/murtaugh/HTML5-Reset-Wordpress-Theme.git
