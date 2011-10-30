@@ -61,3 +61,12 @@
 [submodule "wordpress/html5-reset"]
 	path = wordpress/html5-reset
 	url = https://github.com/murtaugh/HTML5-Reset-Wordpress-Theme.git
+[submodule "coffee-script"]
+	path = coffee-script
+	url = https://github.com/jashkenas/coffee-script.git
+[submodule "jquery.cycle"]
+	path = jquery.cycle
+	url = https://github.com/malsup/cycle.git
+[submodule "animate.css"]
+	path = animate.css
+	url = https://github.com/daneden/animate.css.git
