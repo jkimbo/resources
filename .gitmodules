@@ -61,3 +61,9 @@
 [submodule "wordpress/html5-reset"]
 	path = wordpress/html5-reset
 	url = https://github.com/murtaugh/HTML5-Reset-Wordpress-Theme.git
+[submodule "wordpress/custom-posts"]
+	path = wordpress/custom-posts
+	url = https://github.com/JeffreyWay/Easy-WordPress-Custom-Post-Types.git
+[submodule "spin.js"]
+	path = spin.js
+	url = https://github.com/fgnass/spin.js.git
