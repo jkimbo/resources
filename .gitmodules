@@ -9,7 +9,7 @@
 	url = https://github.com/jquery/jquery.git
 [submodule "html5-boilerplate"]
 	path = html5-boilerplate
-	url = https://github.com/paulirish/html5-boilerplate.git
+	url = https://github.com/h5bp/html5-boilerplate.git
 [submodule "less-elements"]
 	path = less-elements
 	url = https://github.com/dmitryf/elements.git
