@@ -9,7 +9,7 @@
 	url = https://github.com/jquery/jquery.git
 [submodule "html5-boilerplate"]
 	path = html5-boilerplate
-	url = https://github.com/paulirish/html5-boilerplate.git
+	url = https://github.com/h5bp/html5-boilerplate.git
 [submodule "less-elements"]
 	path = less-elements
 	url = https://github.com/dmitryf/elements.git
@@ -61,6 +61,12 @@
 [submodule "wordpress/html5-reset"]
 	path = wordpress/html5-reset
 	url = https://github.com/murtaugh/HTML5-Reset-Wordpress-Theme.git
+[submodule "wordpress/custom-posts"]
+	path = wordpress/custom-posts
+	url = https://github.com/JeffreyWay/Easy-WordPress-Custom-Post-Types.git
+[submodule "spin.js"]
+	path = spin.js
+	url = https://github.com/fgnass/spin.js.git
 [submodule "coffee-script"]
 	path = coffee-script
 	url = https://github.com/jashkenas/coffee-script.git
