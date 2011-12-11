@@ -79,3 +79,6 @@
 [submodule "moment"]
 	path = moment
 	url = https://github.com/timrwood/moment.git
+[submodule "minify"]
+	path = minify
+	url = https://github.com/mrclay/minify.git
