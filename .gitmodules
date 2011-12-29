@@ -79,3 +79,9 @@
 [submodule "moment"]
 	path = moment
 	url = https://github.com/timrwood/moment.git
+[submodule "lobrow"]
+	path = lobrow
+	url = https://github.com/rauschma/lobrow.git
+[submodule "jQuery-Timer-Plugin"]
+	path = jQuery-Timer-Plugin
+	url = https://github.com/jbrooksuk/jQuery-Timer-Plugin.git
