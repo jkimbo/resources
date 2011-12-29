@@ -85,3 +85,6 @@
 [submodule "minify"]
 	path = minify
 	url = https://github.com/mrclay/minify.git
+[submodule "gluephp"]
+	path = gluephp
+	url = https://github.com/jtopjian/glue.git
